@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+bin
+lib
+include
+pip-selfcheck.json
+new_migration
+mysiste
+db.sqlite3
+/static
+.DS_Store.
